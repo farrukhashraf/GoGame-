@@ -1,6 +1,7 @@
 using namespace std;
 
 #include "Spielfeld.h"
+// function initializes spielfeld
 
 void Spielfeld::spielfeld() {
     for (int i = 0; i < size; i++) {
@@ -11,7 +12,7 @@ void Spielfeld::spielfeld() {
         }
     }
 }
-
+// function prints the spielfeld on console
 void Spielfeld::zeigen() {
     char startChar = 'A';
     char startChar2 = 'A';
@@ -35,10 +36,10 @@ void Spielfeld::zeigen() {
                 else if (sFeld[i - 1][j - 1] == 0) {
                     cout << ". ";
                 }
-                else if (sFeld[i - 1][j - 1] == 1) {
+                else if (sFeld[i - 1][j - 1] == 1) {// player 1 symbol
                     cout << "X ";
                 }
-                else if (sFeld[i - 1][j - 1] == 2) {
+                else if (sFeld[i - 1][j - 1] == 2) {// player 2 symbol
                     cout << "O ";
                 }
             }

@@ -1,1 +1,2 @@
 C:\Users\farrukh asharaf\Desktop\scorpions\Debug\scorpions.exe
+C:\Users\farrukh asharaf\Desktop\scorpions\GoGame-\Debug\scorpions.exe

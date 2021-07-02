@@ -1,4 +1,7 @@
 ﻿  GoGame.cpp
-C:\Users\farrukh asharaf\Desktop\scorpions\GoGame.cpp(133,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\farrukh asharaf\Desktop\scorpions\GoGame.cpp(214,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  scorpions.vcxproj -> C:\Users\farrukh asharaf\Desktop\scorpions\Debug\scorpions.exe
+C:\Users\farrukh asharaf\Desktop\scorpions\GoGame-\GoGame.cpp(137,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\farrukh asharaf\Desktop\scorpions\GoGame-\GoGame.cpp(218,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Quelle.cpp
+  Spielfeld.cpp
+  Generating Code...
+  scorpions.vcxproj -> C:\Users\farrukh asharaf\Desktop\scorpions\GoGame-\Debug\scorpions.exe
